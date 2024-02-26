@@ -1,2 +1,4 @@
 
-/* Your CSS Code here. */
+th,td{
+	border:solid 2px black ;
+}
